@@ -8,6 +8,6 @@ This is a React application that provides a basic blogging platform. Users can s
 * Create, edit, and delete posts
 * View all posts created by all users
 
-## Technologies
+## Technologies :
 * Frontend: HTML, TailwindCSS, JavaScript, React.JS
 * Backend: Appwrite (Backend as a Service)
