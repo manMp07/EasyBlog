@@ -1,17 +1,13 @@
-# React + Vite
+# React Blog App with Appwrite Backend
 
-To create React + Vite app :
+## Description :
+This is a React application that provides a basic blogging platform. Users can sign up, log in, create posts, edit their own posts, delete their own posts, and view all posts published on the app. Appwrite is used for user management, authentication, and data storage.
 
-1. npm create vite@latest
-2. Select React
-3. Select JavaaScript
+## Features :
+User Login/Signup with Appwrite
+Create, edit, and delete posts
+View all posts created by all users
 
-## Package Installations in React Folder
-1. npm install
-2. npm install react-router-dom
-3. npm install @reduxjs/toolkit
-4. npm install react-redux
-5. npm install appwrite
-6. npm install html-react-parser
-7. npm install @tinymce/tinymce-react
-8. npm install react-hook-form
+## Technologies
+Frontend: HTML, TailwindCSS, JavaScript, React.JS
+Backend: Appwrite (Backend as a Service)
